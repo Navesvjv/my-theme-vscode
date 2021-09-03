@@ -1,0 +1,22 @@
+{
+	"name": "srnaves-vscode",
+	"displayName": "srnaves",
+	"description": "Dark but clean theme",
+	"version": "1.0.0",
+	"main": "index.js",
+	"repository": "https://github.com/Navesvjv/my-theme-vscode.git",
+	"author": "João Victor Naves",
+	"license": "MIT",
+	"scripts": {
+		"build": "node --experimental-modules src/index.mjs"
+	},
+	"categories": [
+		"Themes"
+	],
+	"tags": [
+		"clean",
+		"green",
+		"dark theme",
+		"color-theme"
+	]
+}
